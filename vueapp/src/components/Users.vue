@@ -1,5 +1,4 @@
 <template>
-  <h3>Users:</h3>
   <h4>Presidente things</h4>
 </template>
 <script>

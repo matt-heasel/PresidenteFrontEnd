@@ -1,4 +1,4 @@
-# vueapp
+# president
 
 ## Project setup
 ```

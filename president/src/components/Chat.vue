@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 @click="test"> {{header}}</h1>
+    <h1 @click="testEmit"> {{header}}</h1>
     <label for="message">type message:</label>
     <input type="text" name="message" id="message" v-model="message">
     <button @click="send">Send</button>
